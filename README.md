@@ -1,8 +1,8 @@
-## EZEQUIEL EMILIANO SECCHI
+# EZEQUIEL EMILIANO SECCHI
 
 ![fallo en cargar imagen](/image.png)
 
-### **Legajo:** *209.190-2*
+## Legajo: *209.190-2*
 
 ### *Sobre mi:*
 
