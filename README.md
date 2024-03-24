@@ -11,6 +11,9 @@
 ### *Gustos:*
 
 `- Me encanta el desarrollo de videojuego, actualmente, contando con conocimientos básicos en el motor de Godot, aunque también me encantaría aprender diseño de personajes o Sprites`
+
 `- Me gusta mucho la edicion de videos, teniendo experiencia en un antiguo canal de youtube que yo tenia sobre videos loquendo (si, re viejo)`
+
 `- No tengo un gusto especifico de genero de musica, pero en lo personal el genero que mas me gusta siempre sera la electronica, entre algunos de ellos, Coldplay y Avicii`
+
 `- Me gusta el helado de dulce de leche, y si es granizado mejor ;) `
